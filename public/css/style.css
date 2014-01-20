@@ -179,6 +179,12 @@ border-bottom-right-radius:5px;
 -webkit-border-bottom-right-radius:5px;
 }
 
+.happy_readers {
+    font-family: 'Bree Serif', serif;
+    font-size:2.0em;
+    display:inline-block;
+}
+
 a.button_buy_table {
 background: #97bf0f; /* Old browsers */
 /* IE9 SVG, needs conditional override of 'filter' to 'none' */
