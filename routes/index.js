@@ -3,7 +3,7 @@
  * GET home page.
  */
 
-var Leanpub = require('leanpub-client'),
+var Leanpub = require('@swizec/leanpub-client'),
     settings = require('../settings'),
     leanpub = new Leanpub(settings.leanpub_key);
 

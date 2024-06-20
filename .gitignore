@@ -1,3 +1,4 @@
 node_modules
 .DS_Store
 secret_settings.js
+node_modules*
